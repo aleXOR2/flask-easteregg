@@ -1,4 +1,21 @@
-## SOmething
+# Easter egg sample project
+
+## Prerequisites
+
+* Python3.6+
+* Poetry Package for Python installed globally
+## Usage
+
+1. in the project root directory, run 
+    ```sh
+    $ poetry run python3 src/easter_egg.py
+
+    ```
+1. Open browser at http://127.0.0.1:8080/ and see the name and the photo
+1. You can change change the name in file `src/static/user_name.txt`
+
+
+## Log
 
 Using https://manytools.org/hacker-tools/convert-images-to-ascii-art/go/ to convert it
 
